@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLineApp", "CommandLineApp\CommandLineApp.csproj", "{B38B2F56-71E8-4D9D-AA0B-ECE1FC3ED01A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B38B2F56-71E8-4D9D-AA0B-ECE1FC3ED01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38B2F56-71E8-4D9D-AA0B-ECE1FC3ED01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38B2F56-71E8-4D9D-AA0B-ECE1FC3ED01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38B2F56-71E8-4D9D-AA0B-ECE1FC3ED01A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D78FEFA-38DD-471D-86AC-66D2D2195270}
+	EndGlobalSection
+EndGlobal
